@@ -79,7 +79,7 @@ objective 2/
 ### 1. Installation
 ```bash
 # Clone or navigate to the project directory
-cd "C:\Users\krake\Downloads\mamatha rani\objective 2"
+cd "dir"
 
 # Install dependencies
 pip install -r requirements.txt
